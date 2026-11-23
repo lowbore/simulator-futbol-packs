@@ -1,6 +1,17 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "1.0.0",
-  "updatedAt": "2026-11-22T00:00:00Z",
-  "packs": []
+  "catalogVersion": "1.0.1",
+  "updatedAt": "2026-11-23T02:04:24Z",
+  "packs": [
+    {
+      "leagueId": "esp",
+      "season": "2026/27",
+      "version": "0.1.0-demo",
+      "updatedAt": "2026-11-23T02:00:00Z",
+      "downloadUrl": "https://github.com/lowbore/simulator-futbol-packs/releases/download/esp-2026-27-v0.1.0-demo/espana_2026_27_demo.zip",
+      "sha256": "a606476a32ec6208365e8cfe9fb9e78660f1a65d415e001fef8fac51c585fca2",
+      "sizeBytes": 256971,
+      "minAppVersion": "1.0.0"
+    }
+  ]
 }
